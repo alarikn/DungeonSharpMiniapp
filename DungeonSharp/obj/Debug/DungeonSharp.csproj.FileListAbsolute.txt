@@ -1,0 +1,7 @@
+C:\Users\naati\source\repos\DungeonSharp\DungeonSharp\bin\Debug\DungeonSharp.exe.config
+C:\Users\naati\source\repos\DungeonSharp\DungeonSharp\bin\Debug\DungeonSharp.exe
+C:\Users\naati\source\repos\DungeonSharp\DungeonSharp\bin\Debug\DungeonSharp.pdb
+C:\Users\naati\source\repos\DungeonSharp\DungeonSharp\obj\Debug\DungeonSharp.csprojAssemblyReference.cache
+C:\Users\naati\source\repos\DungeonSharp\DungeonSharp\obj\Debug\DungeonSharp.csproj.CoreCompileInputs.cache
+C:\Users\naati\source\repos\DungeonSharp\DungeonSharp\obj\Debug\DungeonSharp.exe
+C:\Users\naati\source\repos\DungeonSharp\DungeonSharp\obj\Debug\DungeonSharp.pdb
