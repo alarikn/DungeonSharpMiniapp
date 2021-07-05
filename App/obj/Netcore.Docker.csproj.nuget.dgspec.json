@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/alarik/Documents/git/devops/DungeonSharpMiniapp/App/Netcore.Docker.csproj": {}
+    "H:\\ConsoleProject\\DungeonSharpMiniapp\\App\\Netcore.Docker.csproj": {}
   },
   "projects": {
-    "/home/alarik/Documents/git/devops/DungeonSharpMiniapp/App/Netcore.Docker.csproj": {
+    "H:\\ConsoleProject\\DungeonSharpMiniapp\\App\\Netcore.Docker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/alarik/Documents/git/devops/DungeonSharpMiniapp/App/Netcore.Docker.csproj",
+        "projectUniqueName": "H:\\ConsoleProject\\DungeonSharpMiniapp\\App\\Netcore.Docker.csproj",
         "projectName": "Netcore.Docker",
-        "projectPath": "/home/alarik/Documents/git/devops/DungeonSharpMiniapp/App/Netcore.Docker.csproj",
-        "packagesPath": "/home/alarik/.nuget/packages/",
-        "outputPath": "/home/alarik/Documents/git/devops/DungeonSharpMiniapp/App/obj/",
+        "projectPath": "H:\\ConsoleProject\\DungeonSharpMiniapp\\App\\Netcore.Docker.csproj",
+        "packagesPath": "C:\\Users\\naati\\.nuget\\packages\\",
+        "outputPath": "H:\\ConsoleProject\\DungeonSharpMiniapp\\App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/alarik/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\naati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -52,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

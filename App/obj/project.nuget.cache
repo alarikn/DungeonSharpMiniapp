@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "XIGsooVurmTPLS9UbdtB0+zZhaJ1BOKMED7Aztg+o/xYBpAc1qMdlR0q8cwwqhDblp5bt3bzcJ6f9BOhYUy/JA==",
+  "dgSpecHash": "I80gHpdrcx0x41yR6fJ8JP2aAqtSJoOcCrEyjQFlNQRCyre7e225QN7RhQijN7tNNwg8vDhmmmW+09u2jUANjg==",
   "success": true,
-  "projectFilePath": "/home/alarik/Documents/git/devops/DungeonSharpMiniapp/App/Netcore.Docker.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "H:\\ConsoleProject\\DungeonSharpMiniapp\\App\\Netcore.Docker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naati\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

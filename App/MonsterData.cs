@@ -1,21 +1,24 @@
 // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
-    public class MonsterResult
-    {
-        [JsonProperty("index")]
-        public string Index { get; set; }
 
-        [JsonProperty("name")]
-        public string Name { get; set; }
+using System.Collections.Generic;
+using Newtonsoft.Json;
+public class MonsterResult
+{
+    [JsonProperty("index")]
+    public string Index { get; set; }
 
-        [JsonProperty("url")]
-        public string Url { get; set; }
-    }
+    [JsonProperty("name")]
+    public string Name { get; set; }
 
-    public class MonsterRoot
-    {
-        [JsonProperty("count")]
-        public int Count { get; set; }
+    [JsonProperty("url")]
+    public string Url { get; set; }
+}
 
-        [JsonProperty("results")]
-        public List<Result> Results { get; set; }
-    }
+public class MonsterRoot
+{
+    [JsonProperty("count")]
+    public int Count { get; set; }
+
+    [JsonProperty("results")]
+    public List<MonsterResult> Results { get; set; }
+}

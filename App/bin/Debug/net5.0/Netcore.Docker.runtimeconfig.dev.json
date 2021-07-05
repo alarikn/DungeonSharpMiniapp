@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/alarik/.dotnet/store/|arch|/|tfm|",
-      "/home/alarik/.nuget/packages"
+      "C:\\Users\\naati\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\naati\\.nuget\\packages"
     ]
   }
 }

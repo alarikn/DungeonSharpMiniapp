@@ -1,5 +1,8 @@
 ﻿using System;
-using System.Collections;
+using System.Collections.Generic;
+using System.IO;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 
 public class GameLooper
 {
@@ -35,7 +38,15 @@ public class GameLooper
         }
         Console.WriteLine(heroString);
 
-        var monsterData = JsonConvert.DeserializeObject<List<MatrixModel.MonsterRoot>>(monsters);
+        string path = AppDomain.CurrentDomain.BaseDirectory;
+        JObject jsonObject = JObject.Parse(File.ReadAllText($"{path}monsters.json"));
+        string jsonData = jsonObject.ToString();
+        var monsterData = JsonConvert.DeserializeObject<MonsterRoot>(jsonData);
+        foreach(MonsterResult monster in monsterData.Results)
+        {
+            Console.WriteLine(monster.Name);
+        }
+
         Console.Read();
     }
 }
