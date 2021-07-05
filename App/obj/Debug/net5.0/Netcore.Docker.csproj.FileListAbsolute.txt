@@ -1,0 +1,16 @@
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/bin/Debug/net5.0/Netcore.Docker
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/bin/Debug/net5.0/Netcore.Docker.deps.json
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/bin/Debug/net5.0/Netcore.Docker.runtimeconfig.json
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/bin/Debug/net5.0/Netcore.Docker.runtimeconfig.dev.json
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/bin/Debug/net5.0/Netcore.Docker.dll
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/bin/Debug/net5.0/ref/Netcore.Docker.dll
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/bin/Debug/net5.0/Netcore.Docker.pdb
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/obj/Debug/net5.0/Netcore.Docker.csproj.AssemblyReference.cache
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/obj/Debug/net5.0/Netcore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/obj/Debug/net5.0/Netcore.Docker.AssemblyInfoInputs.cache
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/obj/Debug/net5.0/Netcore.Docker.AssemblyInfo.cs
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/obj/Debug/net5.0/Netcore.Docker.csproj.CoreCompileInputs.cache
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/obj/Debug/net5.0/Netcore.Docker.dll
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/obj/Debug/net5.0/ref/Netcore.Docker.dll
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/obj/Debug/net5.0/Netcore.Docker.pdb
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/obj/Debug/net5.0/Netcore.Docker.genruntimeconfig.cache

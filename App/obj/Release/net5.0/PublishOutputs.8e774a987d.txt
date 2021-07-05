@@ -1,0 +1,5 @@
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/bin/Release/net5.0/publish/Netcore.Docker
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/bin/Release/net5.0/publish/Netcore.Docker.dll
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/bin/Release/net5.0/publish/Netcore.Docker.deps.json
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/bin/Release/net5.0/publish/Netcore.Docker.runtimeconfig.json
+/home/alarik/Documents/git/devops/DotnetAppToContainer/App/bin/Release/net5.0/publish/Netcore.Docker.pdb
