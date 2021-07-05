@@ -5,3 +5,10 @@ C:\Users\naati\source\repos\DungeonSharp\DungeonSharp\obj\Debug\DungeonSharp.csp
 C:\Users\naati\source\repos\DungeonSharp\DungeonSharp\obj\Debug\DungeonSharp.csproj.CoreCompileInputs.cache
 C:\Users\naati\source\repos\DungeonSharp\DungeonSharp\obj\Debug\DungeonSharp.exe
 C:\Users\naati\source\repos\DungeonSharp\DungeonSharp\obj\Debug\DungeonSharp.pdb
+H:\ConsoleProject\DungeonSharpMiniapp\DungeonSharp\bin\Debug\DungeonSharp.exe.config
+H:\ConsoleProject\DungeonSharpMiniapp\DungeonSharp\bin\Debug\DungeonSharp.exe
+H:\ConsoleProject\DungeonSharpMiniapp\DungeonSharp\bin\Debug\DungeonSharp.pdb
+H:\ConsoleProject\DungeonSharpMiniapp\DungeonSharp\obj\Debug\DungeonSharp.csprojAssemblyReference.cache
+H:\ConsoleProject\DungeonSharpMiniapp\DungeonSharp\obj\Debug\DungeonSharp.csproj.CoreCompileInputs.cache
+H:\ConsoleProject\DungeonSharpMiniapp\DungeonSharp\obj\Debug\DungeonSharp.exe
+H:\ConsoleProject\DungeonSharpMiniapp\DungeonSharp\obj\Debug\DungeonSharp.pdb

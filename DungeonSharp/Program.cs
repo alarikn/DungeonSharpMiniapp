@@ -10,8 +10,9 @@ namespace DungeonSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("xd");
-            Console.ReadKey();
+            GameLooper looper = new GameLooper();
+            looper.Start();
         }
+
     }
 }
