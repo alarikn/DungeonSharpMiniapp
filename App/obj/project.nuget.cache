@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PVGbbBe3G0tv4/2ifD4VcA0JyDVueqojxI6/iZEXY/Te1Li47RTz0XJS9MG18+WL1solFBKBLCAFGY3iDXkdrg==",
+  "dgSpecHash": "XIGsooVurmTPLS9UbdtB0+zZhaJ1BOKMED7Aztg+o/xYBpAc1qMdlR0q8cwwqhDblp5bt3bzcJ6f9BOhYUy/JA==",
   "success": true,
-  "projectFilePath": "/home/alarik/Documents/git/devops/DotnetAppToContainer/App/Netcore.Docker.csproj",
+  "projectFilePath": "/home/alarik/Documents/git/devops/DungeonSharpMiniapp/App/Netcore.Docker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

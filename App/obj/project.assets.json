@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alarik/Documents/git/devops/DotnetAppToContainer/App/Netcore.Docker.csproj",
+      "projectUniqueName": "/home/alarik/Documents/git/devops/DungeonSharpMiniapp/App/Netcore.Docker.csproj",
       "projectName": "Netcore.Docker",
-      "projectPath": "/home/alarik/Documents/git/devops/DotnetAppToContainer/App/Netcore.Docker.csproj",
+      "projectPath": "/home/alarik/Documents/git/devops/DungeonSharpMiniapp/App/Netcore.Docker.csproj",
       "packagesPath": "/home/alarik/.nuget/packages/",
-      "outputPath": "/home/alarik/Documents/git/devops/DotnetAppToContainer/App/obj/",
+      "outputPath": "/home/alarik/Documents/git/devops/DungeonSharpMiniapp/App/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/alarik/.nuget/NuGet/NuGet.Config"

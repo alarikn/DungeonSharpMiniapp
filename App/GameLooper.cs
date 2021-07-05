@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 
 public class GameLooper
 {
@@ -34,7 +35,7 @@ public class GameLooper
         }
         Console.WriteLine(heroString);
 
-        Console.ReadKey();
+        var monsterData = JsonConvert.DeserializeObject<List<MatrixModel.MonsterRoot>>(monsters);
+        Console.Read();
     }
 }
-

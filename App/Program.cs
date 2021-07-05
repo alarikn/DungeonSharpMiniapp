@@ -6,7 +6,8 @@ namespace Netcore.Docker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Dockerized!");
+            GameLooper looper = new GameLooper();
+            looper.Start();
         }
     }
 }
